@@ -3,7 +3,7 @@ from chatterbot.trainers import ListTrainer
 
 
 chatbot = ChatBot(
-    'Ron Obvious',
+    'My Chatbot',
     trainer='chatterbot.trainers.ChatterBotCorpusTrainer'
 )
 
